@@ -7,4 +7,6 @@ Input can be only float or integer
 Return value must be string with prefix ‘$’, ex. ‘$3.00’
 Return value must show only two decimal points
 
-<a href="https://uppic.cc/v/5Hby" title="" ><img src="https://uppic.cc/d/5Hby" alt="" /></a>
+
+runing </br> 
+<img src="https://uppic.cc/d/5Hby" alt="" class="img" style="width: 884px; height: 418px; ">
